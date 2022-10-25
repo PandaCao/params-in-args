@@ -1,2 +1,2 @@
-# params-in-args
+# params in args
 práce se vstupnímy parametry
